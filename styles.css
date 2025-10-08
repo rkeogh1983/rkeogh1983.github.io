@@ -7,5 +7,14 @@ color: indigo;
 text-align: center;
 }
 #about-me-heading {
-color: rgb(156, 18, 18);
+color: red;
+}
+#skills-heading {
+color: white;
+}
+#highlighted-projects-heading {
+color: blue;
+}
+#contact-me-heading {
+    color: olivedrab;
 }
