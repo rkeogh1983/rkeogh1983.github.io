@@ -1,1 +1,0 @@
-![GitHub OtherRepo](https://img.shields.io/badge/GitHub-OtherRepo-blue?logo=github)](ShipProject/ShipNavigator.java)
