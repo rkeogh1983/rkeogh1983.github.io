@@ -30,7 +30,7 @@ h1 {
 }
 .project img {
     /* adjust your image sizes as needed */
-    width: 100%;
+    width: 400px;
     height: auto;
     margin: 10px auto;
     border: 2px solid navy;
