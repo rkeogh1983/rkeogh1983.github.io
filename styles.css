@@ -1,9 +1,9 @@
 body {
-	background: cornsilk;
+	background: rgb(228, 217, 175);
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: darkslategrey;
+	color: rgb(42, 71, 71);
 	text-align: center;
 }
 .projects { 
